@@ -4,7 +4,7 @@
 
 ### Accident Prediction in the City of Buenos Aires
 
-[Accidents in the City of Buenos Aires](/sample_page)
+[Accidents in the City of Buenos Aires](/google.com)
 <img src="images/project1_foto.jpg?raw=true"/>
 
 ---
