@@ -1,11 +1,12 @@
 title: Bautista Peco # your name (or website title) here
-logo: "/images/Bautista-Peco.jpg?raw=true" # your photo (or logo) here
+logo: "/images/Bautista-Peco-r.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Fraud Prevention Analyst at MercadoLibre
   <br><br>
   Enthusiastic about data and being able to add value through descriptive and predictive analysis, I started as a teaching assistant at my university and then continued my professional development as a data analyst.
   As well, in the future I also have the objective of applying my experiences in projects with social impact.
   <br><br>
+  --
   <a href="https://www.linkedin.com/in/bautista-peco/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
