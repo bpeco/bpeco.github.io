@@ -4,7 +4,7 @@
 
 ### Accident Prediction in the City of Buenos Aires
 
-[Accidents in the City of Buenos Aires](/google.com)
+[Accidents in the City of Buenos Aires](https://github.com/bpeco/caba_prediccion_accidentes)
 <img src="images/project1_foto.jpg?raw=true"/>
 
 ---
